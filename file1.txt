@@ -1,2 +1,1 @@
-This is the first line
-These are the changes
+This is first line of branchB
